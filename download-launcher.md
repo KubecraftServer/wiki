@@ -12,7 +12,7 @@ description: How to download Launcher?
 
 ### Step by step guide:
 
-1. Download launcher by clicking [here](https://youtu.be/e1INyir3rEY)
+1. Download launcher by clicking [here](https://kubecraft.0x77.page/#cta)
 2. Install and Start Launcher
 3. Enter your Nickname
 4. Start the game
@@ -24,7 +24,7 @@ You're done! 🙃
 {% tab title="Windows" %}
 ### Step by step guide:
 
-1. Download launcher by clicking [here](https://youtu.be/e1INyir3rEY)
+1. Download launcher by clicking [here](https://kubecraft.0x77.page/#cta)
 2. Install and Start Launcher
 3. Enter your Nickname
 4. Start the game
@@ -36,7 +36,7 @@ You're done! 🙃
 {% tab title="Ubuntu" %}
 ### Step by step guide:
 
-1. Download launcher by clicking [here](https://youtu.be/e1INyir3rEY)
+1. Download launcher by clicking [here](https://kubecraft.0x77.page/#cta)
 2. Install and Start Launcher `sudo dpkg -i <name>.deb`
 3. Enter your Nickname
 4. Start the game
@@ -45,4 +45,6 @@ You're done! 🙃
 You're done! 🙃
 {% endtab %}
 {% endtabs %}
+
+
 
