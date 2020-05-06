@@ -1,29 +1,20 @@
 ---
-description: Create an account on kubecraft.
+description: Create account and start playing on Kubecraft.
 ---
 
-# Register
+# Getting Started
 
-## Getting Super Powers
+### 1. Download Launcher
 
-Becoming a super hero is a fairly straight forward process:
+{% page-ref page="download-launcher.md" %}
 
-```
-$ give me super-powers
-```
+### 2. Enter the game
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+### 3. Register your account
 
-Once you're strong enough, save the world:
+{% page-ref page="authorization.md" %}
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+
 
 
 

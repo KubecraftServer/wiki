@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Register](README.md)
+* [Getting Started](README.md)
+* [Download Launcher](download-launcher.md)
+* [Authorization](authorization.md)
 
